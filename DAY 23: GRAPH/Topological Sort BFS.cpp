@@ -7,7 +7,7 @@ step :
  1. first find all the nodess indegree 
  2. push the node that would have a 0 indegree
  3. pick up one node and push that in ans,
- 4. whatever node is there in the adj, retduce its indegree.
+ 4. whatever node is there in the adj, reduce its indegree.
 
 
 class Solution
